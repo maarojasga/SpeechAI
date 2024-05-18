@@ -1,0 +1,9 @@
+streamlit
+replicate
+transformers
+scikit-learn
+nltk
+textblob
+torch
+matplotlib
+unidecode
